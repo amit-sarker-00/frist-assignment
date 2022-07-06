@@ -126,7 +126,7 @@ ul li {
 }
 
 .item1 {
-    background: #EDF5F6;
+    background: #FFEEEE;
 }
 
 .item2 {
@@ -176,4 +176,62 @@ ul li {
 
 .content-img img {
     width: 100%;
+}
+
+#flood {
+    height: 100vh;
+    background: #EDF5F6;
+}
+
+.headline {
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+}
+
+.gallery {
+    text-align: center;
+}
+
+.gallery img {
+    width: 400px;
+    height: 300px;
+}
+
+#news {
+    height: 50vh;
+    overflow: hidden;
+    background: #EDF5F6;
+    text-align: center;
+}
+
+.update {
+    margin-top: 5%;
+}
+
+.update h1 {
+    font-size: 35px;
+}
+
+.subscribe {
+    margin-top: 2%;
+}
+
+.subscribe input {
+    width: 200px;
+    height: 35px;
+}
+
+.subscribe .button {
+    padding: 4px;
+    border: 1px solid tomato;
+    background-color: coral;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.subscribe .button:hover {
+    background: linear-gradient(to right, yellow, crimson);
+    color: black;
 }
