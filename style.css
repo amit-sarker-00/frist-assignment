@@ -35,7 +35,6 @@ body {
 .header h3 {
     margin-right: 200px;
     font-size: 30px;
-    text-decoration-line: underline;
 }
 
 .btn {
@@ -234,4 +233,11 @@ ul li {
 .subscribe .button:hover {
     background: linear-gradient(to right, yellow, crimson);
     color: black;
+}
+
+footer {
+    padding: 20px;
+    background: black;
+    color: white;
+    text-align: center;
 }
