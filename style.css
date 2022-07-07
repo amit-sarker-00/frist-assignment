@@ -218,15 +218,15 @@ ul li {
 
 .subscribe input {
     width: 200px;
-    height: 35px;
+    height: 37px;
 }
 
 .subscribe .button {
-    padding: 4px;
+    padding: 5px;
     border: 1px solid tomato;
     background-color: coral;
     color: white;
-    border-radius: 5px;
+    margin-left: -5px;
 
 }
 
